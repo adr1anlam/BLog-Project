@@ -17,3 +17,6 @@ A basic blog application built with Django.
     + Using environment variables to define the SMTP configuration
     + Sending email in views
     + Rendering forms in template
+- Creating a comment system:
+    + Creating model and forms from model
+    + Adding comment to the post detail
