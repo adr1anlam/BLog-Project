@@ -20,3 +20,11 @@ A basic blog application built with Django.
 - Creating a comment system:
     + Creating model and forms from model
     + Adding comment to the post detail
+- Tagging with django-taggit
+- Retrieving posts by similarity
+- Creating custom template tags and filters
+- Adding sitemap
+- Creating feeds
+- Adding full-text search:
+    + Dumping and switching the database to PostgreSQL
+    + Build search lookups
